@@ -1,0 +1,19 @@
+{
+  "name": "capturewebpage",
+  "version": "1.0.0",
+  "description": "capture image and text content of a webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "webpage"
+  ],
+  "author": "guntar",
+  "license": "ISC",
+  "dependencies": {
+    "diff": "^5.2.0",
+    "puppeteer": "^22.7.1"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Home - Perusahaan Outsourcing Indonesia",
+  "metaDescription": "Progress Citra Sempurna berdiri sejak tahun 2009, bergerak di bidang jasa “outsourcing & promotion” berpengalaman dan telah dipercaya Lebih dari 13 tahun",
+  "metaRobots": "noindex, nofollow",
+  "firstH1": "TO PROGRESS"
+}

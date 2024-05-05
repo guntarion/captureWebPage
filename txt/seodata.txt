@@ -1,0 +1,6 @@
+{
+  "title": "Green Garment : Jasa Konveksi Bandung Terpercaya",
+  "metaDescription": "Kami Adalah Vendor Konveksi Berpengalaman Melayani Jasa Pembuatan Custom Baju,Jaket,Kaos,Kemeja,Seragam,Dll. Memberikan Harga Terbaik & Berkualitas.",
+  "metaRobots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "firstH1": "GREEN GARMENT INDONESIA"
+}
